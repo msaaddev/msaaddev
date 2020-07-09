@@ -48,4 +48,4 @@ Looks like you stumbled upon my [GitHub](https://github.com/msaaddev) and now in
 - 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/msaaddev/)
 - 💥 Follow me at [Twitter](https://twitter.com/MSaaddev)
 - 📦 Add me on [Facebook](https://www.facebook.com/msaaddev/)
-- 👋 Say hi to me on instagram.com/msaaddev
+- 👋 Say hi to me on [Instagram](instagram.com/msaaddev)
