@@ -27,7 +27,7 @@ Looks like you stumbled upon my [GitHub](https://github.com/msaaddev) and now in
 #### 🚀 My Experience
 
 - ⚡️ Jr. Developer Advocate @[worwox](http://worwox.com/)
-- ✍️ Technical Review Writer @TheDevCouple. [Click here](https://thedevcouple.com/author/muhammadsaad/) to read the reviews I wrote for multi-million dollar companies.
+- ✍️ Technical Review Writer @[TheDevCouple](https://thedevcouple.com/). [Click here](https://thedevcouple.com/author/muhammadsaad/) to read the reviews I wrote for multi-million dollar companies.
 
 #### 💡 Some Accomplishments
 
@@ -41,7 +41,7 @@ Looks like you stumbled upon my [GitHub](https://github.com/msaaddev) and now in
 - 📌 [geo-location-cli](https://github.com/msaaddev/geo-location-cli) - Get location data of any IP Address.
 - 🦠 [COVID-19-STAT](https://github.com/msaaddev/COVID-19-STAT) - A web application to keep track of COVID-19 numbers & growth across the world
 
-#### 🤙How You Can Contact Me!?
+#### 🤙 How You Can Contact Me!?
 
 - 📩 Email me at [me@msaad.dev](mailto:me@msaad.dev)
 - 📖 Read my [blog](http://msaad.dev/)
