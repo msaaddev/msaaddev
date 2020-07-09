@@ -41,7 +41,7 @@ Looks like you stumbled upon my [GitHub](https://github.com/msaaddev) and now in
 - 📌 [geo-location-cli](https://github.com/msaaddev/geo-location-cli) - Get location data of any IP Address.
 - 🦠 [COVID-19-STAT](https://github.com/msaaddev/COVID-19-STAT) - A web application to keep track of COVID-19 numbers & growth across the world
 
-#### 🤙 How You Can Contact Me
+#### 🤙 Get In Touch
 
 - 📩 Email me at [me@msaad.dev](mailto:me@msaad.dev)
 - 📖 Read my [blog](http://msaad.dev/)
@@ -49,3 +49,5 @@ Looks like you stumbled upon my [GitHub](https://github.com/msaaddev) and now in
 - 💥 Follow me at [Twitter](https://twitter.com/MSaaddev)
 - 📦 Add me on [Facebook](https://www.facebook.com/msaaddev/)
 - 👋 Say hi to me on [Instagram](instagram.com/msaaddev)
+
+Cheerios 🤞
