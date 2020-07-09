@@ -19,7 +19,7 @@ Looks like you stumbled upon my [GitHub](https://github.com/msaaddev) and now in
 
 #### 🤔 So Who Am I!?
 
-- 🏫 I am a junior pursuing a Bachelor’s degree in Computer Sciences from one of the top-ranking universities in my country — University of Engineering & Technology (UET).
+- 🏫 I am a junior pursuing a Bachelor’s degree in Computer Sciences from University of Engineering & Technology (UET).
 - ⚡️ My expertise primarily revolves around JavaScript, i.e., React.js, Node.js, Express.js, Gatsby.js.
 - 🚀 I am a JAMstack fanboy.
 - ♥️ I love open-source and that's why I love building open-source products. I am also a regular Hacktoberfest participant.
