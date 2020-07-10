@@ -26,7 +26,7 @@ Looks like you stumbled upon my [GitHub](https://github.com/msaaddev) and now in
 
 #### 🚀 My Experience
 
-- ⚡️ Jr. Developer Advocate @[worwox](http://worwox.com/)
+- ⚡️ Jr. Developer Advocate @[Worwox](http://worwox.com/)
 - ✍️ Technical Review Writer @[TheDevCouple](https://thedevcouple.com/). [Click here](https://thedevcouple.com/author/muhammadsaad/) to read the reviews I wrote for multi-million dollar companies.
 
 #### 💡 Some Accomplishments
