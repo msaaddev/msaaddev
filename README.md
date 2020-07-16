@@ -18,6 +18,9 @@
 
 <br>
 
+<img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="GIF" align="right">
+
+
 #### 🤔 Who Am I!?
 
 - 🏫 I am a junior pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
@@ -40,8 +43,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-#### 🚀 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true" alt="Saad's GitHub Stats">
 
