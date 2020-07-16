@@ -1,53 +1,44 @@
-### Howdy, you! 👋
+### Howdy, you! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**msaaddev/msaaddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/msaaddev">
+  <img align="left" alt="Saad Irfan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/msaaddev/">
+  <img align="left" alt="Saad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/msaaddev/">
+  <img align="left" alt="Saad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/msaaddev">
+  <img align="left" alt="Saad's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="mailto:me@msaad.devv">
+  <img align="left" alt="Saad's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true" alt="Saad's GitHub Stats" align="right">
 
-Looks like you stumbled upon my [GitHub](https://github.com/msaaddev) and now interested in getting to know me. Well, seek no further because I am happy to compel.
-
-#### 🤔 So Who Am I!?
+#### 🤔 Who Am I!?
 
 - 🏫 I am a junior pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
 - ⚡️ My expertise primarily revolves around JavaScript, i.e., React.js, Node.js, Express.js, Gatsby.js.
 - 🚀 I am a JAMstack fanboy.
 - ♥️ I am an open-source lover and that's why I occasionally build open-source products. I am also a regular Hacktoberfest participant.
 
-#### 🚀 My Experience
-
-- ⚡️ Jr. Developer Advocate @[Worwox](http://worwox.com/)
-- ✍️ Technical Review Writer @[TheDevCouple](https://thedevcouple.com/). [Click here](https://thedevcouple.com/author/muhammadsaad/) to read the reviews I wrote for multi-million dollar companies.
-
 #### 💡 Some Accomplishments
 
-- 🎯 Google [chose](https://drive.google.com/file/d/1oFZ4fY837o_gTmrX2TyBuceQSllSlhUq/view) me to lead its first ever [Developer Student Clubs](https://developers.google.com/community/dsc) at my varsity where I have taught hundreds of students new technologies.
-- 🙌 I am also serving as a [Student Partner at Microsoft](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=338ed5062c5449b2bf23bc2edfae5e35) to promote open-source technologies.
+- 🎯 Former [Developer Student Clubs](https://developers.google.com/community/dsc) Lead
+- 🙌 [Student Partner at Microsoft](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=338ed5062c5449b2bf23bc2edfae5e35)
 
-#### 🚀 Notable Projects
 
-- ⚡️ [github-interact-cli](https://github.com/msaaddev/github-interact-cli) - Interact with GItHub right inside your terminal.
-- 🔑 [password-gen-cli](https://github.com/msaaddev/password-gen-cli) - Generates random password and copies it to your clipboard.
-- 📌 [geo-location-cli](https://github.com/msaaddev/geo-location-cli) - Get location data of any IP Address.
-- 🦠 [COVID-19-STAT](https://github.com/msaaddev/COVID-19-STAT) - A web application to keep track of COVID-19 numbers & growth across the world
+#### Languages and Tools
 
-#### 🤙 Get In Touch
-
-- 📩 Email me at [me@msaad.dev](mailto:me@msaad.dev)
-- 📖 Read my [blog](http://msaad.dev/)
-- 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/msaaddev/)
-- 💥 Follow me at [Twitter](https://twitter.com/MSaaddev)
-- 📦 Add me on [Facebook](https://www.facebook.com/msaaddev/)
-- 👋 Say hi to me on [Instagram](instagram.com/msaaddev)
-
-Cheerios 🤞
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/gatsby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
