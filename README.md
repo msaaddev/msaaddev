@@ -23,7 +23,7 @@
 
 #### 🤔 Who Am I!?
 
-- 🏫 I am a junior pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
+- 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
 - ⚡️ My expertise primarily revolves around JavaScript, i.e., React.js, Node.js, Express.js, Gatsby.js.
 - 🚀 I am a JAMstack fanboy.
 - ♥️ I am an open-source lover and that's why I occasionally build open-source products. I am also a regular Hacktoberfest participant.
