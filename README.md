@@ -17,6 +17,9 @@
 </a>
 
 <br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=msaaddev&color=blueviolet)
 
 <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="GIF" align="right">
 
