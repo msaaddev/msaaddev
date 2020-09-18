@@ -1,4 +1,4 @@
-### Howdy, you! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Howdy, you! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving">
 
 <a href="https://twitter.com/msaaddev">
   <img align="left" alt="Saad Irfan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -12,30 +12,28 @@
 <a href="https://www.instagram.com/msaaddev">
   <img align="left" alt="Saad's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="mailto:me@msaad.devv">
+<a href="mailto:me@msaad.dev">
   <img align="left" alt="Saad's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=msaaddev&color=blueviolet)
+![Views](https://komarev.com/ghpvc/?username=msaaddev&color=blueviolet)
 
-<img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="GIF" align="right">
+<img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="how I code" align="right">
 
-
-#### 🤔 Who Am I!?
-
-- 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
-- ⚡️ Being an aspiring full-stack JavaScript Developer, I dabble with React.js, Node.js, Express.js, Gatsby.js & now Next.js.
-- 🚀 I am a JAMstack fanboy.
-- ♥️ I am an open-source lover and that's why I occasionally build open-source products. I am also a regular Hacktoberfest participant.
-
-#### 💡 Some Accomplishments
+#### Accomplishments
 
 - 🎯 Former [Developer Student Clubs](https://developers.google.com/community/dsc) Lead
 - 🙌 [Student Partner at Microsoft](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=338ed5062c5449b2bf23bc2edfae5e35)
 
+#### Who Am I?!
+
+- 🏫 Dveloper pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
+- 😎 An aspiring full-stack JavaScript Developer. I dabble with React.js, Node.js, Express.js, Gatsby.js & now Next.js.
+- 📖 I am an open-source developer and a regular Hacktoberfest participant.
+- 🚀 I am a Jamstack fanboy.
 
 #### 👨🏻‍💻 Languages and Tools
 
@@ -50,4 +48,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Saad's GitHub Stats">
-
