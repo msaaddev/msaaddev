@@ -26,7 +26,7 @@
 #### Accomplishments
 
 - 🎯 Former [Developer Student Clubs](https://developers.google.com/community/dsc) Lead
-- 🙌 [Student Partner at Microsoft](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=338ed5062c5449b2bf23bc2edfae5e35)
+- 🙌 Learn Student [Ambassador](https://drive.google.com/file/d/1TrGfiKtcYLaCr0XA_YA3mQzU3eA0FF1m/view?usp=sharing) @microsoft
 
 #### Who Am I?!
 
