@@ -30,7 +30,7 @@
 
 #### Who Am I?!
 
-- 🏫 Dveloper pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
+- 🏫 Developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
 - 😎 An aspiring full-stack JavaScript Developer. I dabble with React.js, Node.js, Express.js, Gatsby.js & now Next.js.
 - 📖 I am an open-source developer and a regular Hacktoberfest participant.
 - 🚀 I am a Jamstack fanboy.
