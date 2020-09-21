@@ -4,7 +4,7 @@
   <img align="left" alt="Saad Irfan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/msaaddev/">
-  <img align="left" alt="Saad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Saad's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/msaaddev/">
   <img align="left" alt="Saad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -26,7 +26,7 @@
 #### Accomplishments
 
 - 🎯 Former [Developer Student Clubs](https://developers.google.com/community/dsc) Lead
-- 🙌 Learn Student [Ambassador](https://drive.google.com/file/d/1TrGfiKtcYLaCr0XA_YA3mQzU3eA0FF1m/view?usp=sharing) @microsoft
+- 🙌 [Microsoft Learn Student Ambassador](https://drive.google.com/file/d/1TrGfiKtcYLaCr0XA_YA3mQzU3eA0FF1m/view?usp=sharing)
 
 #### Who Am I?!
 
@@ -35,16 +35,5 @@
 - 📖 I am an open-source developer and a regular Hacktoberfest participant.
 - 🚀 I am a Jamstack fanboy.
 
-#### Languages and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Saad's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Saad's GitHub Stats" align="left" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaaddev&theme=shades-of-purple&layout=compact" alt="Saad's top languages" />
