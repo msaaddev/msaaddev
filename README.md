@@ -35,5 +35,7 @@
 - 📖 I am an open-source developer and a regular Hacktoberfest participant.
 - 🚀 I am a Jamstack fanboy.
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Saad's GitHub Stats" align="left" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaaddev&theme=shades-of-purple&layout=compact" alt="Saad's top languages" />
