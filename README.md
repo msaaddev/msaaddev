@@ -1,4 +1,6 @@
-### Howdy, you! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving">
+<div align="center">
+  
+<h3>Howdy, you!</h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving">
 
 <a href="https://twitter.com/msaaddev">
   <img align="left" alt="Saad Irfan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,25 +18,11 @@
   <img align="left" alt="Saad's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br>
-<br>
-
 ![Views](https://komarev.com/ghpvc/?username=msaaddev&color=blueviolet)
 
-<img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" alt="how I code" align="right">
+🚀 Aspiring JavaScript developer getting a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology. 🐼 An MLH ’20 fellow, 👨🏻‍💻 Jr. Dev Advocate @Worwox, 💥 an open-sourcer (authored several open-source tools), 🦉open-source contributor (contributed to the likes of Node.js, Fluid Project, Global Public Inclusive Infrastructure), 🙌 former Google’s Developer Student Clubs Lead, 💻 Beta – Microsoft Learn Student Ambassador, ✍️ Technical Writer, 🗣 Speaker, and 🎸 a Guitarist.
 
-#### Accomplishments
-
-- 🐼 [MLH '20 Fellow](http://fellowship.mlh.io/)
-- 🙌 [Microsoft Learn Student Ambassador](https://drive.google.com/file/d/1TrGfiKtcYLaCr0XA_YA3mQzU3eA0FF1m/view?usp=sharing)
-- 🎯 Former [Developer Student Clubs](https://developers.google.com/community/dsc) Lead
-
-#### Who Am I?!
-
-- 🏫 Developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology.
-- 😎 An aspiring full-stack JavaScript Developer. I dabble with React.js, Node.js, Express.js, Gatsby.js & now Next.js.
-- 📖 I am an open-source developer and a regular Hacktoberfest participant.
-- 🚀 I am a Jamstack fanboy.
+</div>
 
 #### Languages and Tools	
 
