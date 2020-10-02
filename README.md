@@ -25,12 +25,13 @@
 
 #### Accomplishments
 
-- 🎯 Former [Developer Student Clubs](https://developers.google.com/community/dsc) Lead
+- 🐼 [MLH '20 Fellow](http://fellowship.mlh.io/)
 - 🙌 [Microsoft Learn Student Ambassador](https://drive.google.com/file/d/1TrGfiKtcYLaCr0XA_YA3mQzU3eA0FF1m/view?usp=sharing)
+- 🎯 Former [Developer Student Clubs](https://developers.google.com/community/dsc) Lead
 
 #### Who Am I?!
 
-- 🏫 Developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET).
+- 🏫 Developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology.
 - 😎 An aspiring full-stack JavaScript Developer. I dabble with React.js, Node.js, Express.js, Gatsby.js & now Next.js.
 - 📖 I am an open-source developer and a regular Hacktoberfest participant.
 - 🚀 I am a Jamstack fanboy.
