@@ -6,7 +6,7 @@
 
 </div>
 
-### Connect With Me
+### 👥 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/msaaddev/)
 - [Twitter](https://twitter.com/msaaddev)
