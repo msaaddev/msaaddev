@@ -6,10 +6,8 @@
 
 </div>
 
+![Metric](https://metrics.lecoq.io/msaaddev)
+
 ### 👥 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/msaaddev/)
-- [Twitter](https://twitter.com/msaaddev)
-- [Blog](http://msaad.dev/)
-- [Facebook](https://www.facebook.com/msaaddev/)
-- [Instagram](https://www.instagram.com/msaaddev/)
+[LinkedIn](https://www.linkedin.com/in/msaaddev/) • [Twitter](https://twitter.com/msaaddev) • [Blog](http://msaad.dev/) • [Facebook](https://www.facebook.com/msaaddev/) • [Instagram](https://www.instagram.com/msaaddev/)
