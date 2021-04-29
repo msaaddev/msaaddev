@@ -31,7 +31,7 @@
 
 ### Community 👥
 
-- Founder & Lead of [Google Developer Student Clubs UET Chapter](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) – Founded GDSC UET in 2019 and led the community for a year.
+- Founder & Lead of [Google Developer Student Clubs UET Chapter](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) – Founded GDSC UET in 2019 and led the community for a year. Now serving as its Web development lead. 
 - Delivered hands-on workshop on Git and GitHub to teach students about GitHub and how to use Git to do version controlling and host their code on GitHub.
 - Gave talks in 2019 and 2020 about the Hackatoberfest, how to contribute to open-source, and what are the benefits of building open-source products.
 - Delivered hands-on workshop on React.js to teach students how to build the frontend with this JavaScript library.
