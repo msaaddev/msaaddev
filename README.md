@@ -31,11 +31,11 @@
 
 ### Community 👥
 
-- Founder & Lead of [Google Developer Student Clubs UET Chapter](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) – Founded GDSC UET in 2019 and led the community for a year. Now serving as its Web development lead. 
-- Delivered hands-on workshop on Git and GitHub to teach students about GitHub and how to use Git to do version controlling and host their code on GitHub.
+- Founder & Lead of [Google Developer Student Clubs UET Chapter](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) – Founded GDSC UET in 2019 and led the community for a year. Now serving as its Web development lead.
+- Delivered [hands-on workshop](https://www.instagram.com/p/B3SV_-vJcoS/) on Git and GitHub to teach students about GitHub and how to use Git to do version controlling and host their code on GitHub.
 - Gave talks in 2019 and 2020 about the Hackatoberfest, how to contribute to open-source, and what are the benefits of building open-source products.
 - Delivered hands-on workshop on React.js to teach students how to build the frontend with this JavaScript library.
-- Spoke at DevFest'19 organized by Google Developers Group, Lahore chapter about what Google Developer Students Clubs are and what are we doing to make tech education accessible to everyone.
+- Spoke at [DevFest'19](https://www.instagram.com/p/B5PrRR3J0yr/) organized by Google Developers Group, Lahore chapter about what Google Developer Students Clubs are and what are we doing to make tech education accessible to everyone.
 - [Invited](https://www.youtube.com/watch?v=216LU4_yJT8) by Mehran University of Engineering & Technology to speak about community development at their Google Developer Student Clubs info session.
 - Invited by ASME UET Chapter to be the [instructor](https://www.youtube.com/watch?v=l6U7pXfyuP4) of their Web development forum.
 
