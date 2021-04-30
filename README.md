@@ -39,6 +39,4 @@
 - [Invited](https://www.youtube.com/watch?v=216LU4_yJT8) by Mehran University of Engineering & Technology to speak about community development at their Google Developer Student Clubs info session.
 - Invited by ASME UET Chapter to be the [instructor](https://www.youtube.com/watch?v=l6U7pXfyuP4) of their Web development forum.
 
-<br/>
-
 ![Saad's github stats](https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true)
