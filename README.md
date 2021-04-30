@@ -41,4 +41,4 @@
 
 <br/>
 
-![Saad's github stats](https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000)
+![Saad's github stats](https://github-readme-stats.vercel.app/api?username=msaaddev&show_icons=true&hide_border=true&count_private=true)
