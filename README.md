@@ -23,7 +23,7 @@
 ### My Experience 🚀
 
 - Developed various open-source CLI and web-based tools and published them on [npmjs.com](https://www.npmjs.com/~msaaddev). These tools include a [conversion CLI](https://github.com/msaaddev/docx-to-markdown) to convert your docx files to markdown, a [geolocation CLI](https://github.com/msaaddev/geo-location-cli) to get you the geolocation data of any IP address, and more.
-- Jr. Developer Advocate at [Worwox Group of Agencies](https://worwox.com) – Curated technical content, generate marketing strategies to promote Worwox products, assisted campaigns for Worwox clientele, and organsied & managed community events.
+- Jr. Developer Advocate at [Worwox Group of Agencies](https://worwox.com) – Curated technical content, generated marketing strategies to promote Worwox products, assisted campaigns for Worwox clientele, and organsied & managed community events.
 - [Major League Hacking Fellow](https://fellowship.mlh.io) – Developed several open-source projects from scratch ranging from developer tools to Machine Learning based applications. Also, won Hackathons globally and within my pod.
 - Technical Review Writer at [TheDevCouple](https://thedevcouple.com/author/muhammadsaad/) – Wrote technical product reviews for multi-million dollar IT companies that include but are not limited to [Kinsta](http://kinsta.com), [WP Engine](https://wpengine.com), [IPInfo](https://www.google.com/search?client=safari&rls=en&q=ipinfo&ie=UTF-8&oe=UTF-8), [Northstack](https://northstack.com), etc.
 - [Google Developer Student Clubs](https://developers.google.com/community/dsc) – Accepted by Google to lead its student developer community at my university.
