@@ -17,7 +17,7 @@
 
 ### About Me ⚡️
 
-🎩 I am an open-source enthusiast & a junior pursuing my bachelor's degree in Computer Sciences. <br/>
+🎩 I am an open-source enthusiast & a senior pursuing my bachelor's degree in Computer Sciences. <br/>
 👨🏻‍💻 I am passionate about JavaScript especially its frameworks like Next.js, React.js, Gatsby.js & three.js. <br/>
 
 ### My Experience 🚀
