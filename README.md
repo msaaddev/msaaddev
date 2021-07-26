@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Twitter-msaaddev-blue?logo=twitter&logoColor=blue&color=blue" />
 </a>
 
-<a href="mrsaadirfan@gmail.com.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:mrsaadirfan@gmail.com.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-Saad%20Irfan-red?logo=gmail&logoColor=red&color=red" />
 </a>
 
