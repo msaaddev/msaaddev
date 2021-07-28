@@ -1,4 +1,4 @@
-![cover](assets/cover.png)
+![cover](assets/cover.jpg)
 
 ### ⚡️ Here is a bit about me
 
@@ -8,7 +8,7 @@
 - *Former **Jr. Developer Advocate** at [Worwox](https://github.com/worwox)*
 - *Technical Writer at [**Dev.to**](https://dev.to/msaaddev) and [**TheDevCouple**](https://thedevcouple.com/author/muhammadsaad/)*
 - *Speaker with various **talks** delivered in many notable communities and universities*
-- *Former [instructor](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B) at ASME UET Chapter where I taught **frontend development** to Mechanical Engineers*
+- *Former [**instructor**](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B) at ASME UET Chapter where I taught **frontend development** to Mechanical Engineers*
 - *Founder and former Lead of [**Google DSC UET Chapter**](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) (Part of 1st cohort)*
 - *Beta level **Microsoft Learn Student Ambassador***
 - *Current **Web Dev Team Lead** of ACM UET Chapter*
