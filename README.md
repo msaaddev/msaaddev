@@ -14,6 +14,7 @@
 - *Current **Web Dev Team Lead** of ACM UET Chapter*
 - *Sr. Year CS Undergrad*
 
+![separator](assets/separate.jpg)
 
 <a href="https://www.linkedin.com/in/msaaddev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Saad%20Irfan-blue?logo=linkedin&logoColor=blue&color=blue" />
