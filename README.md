@@ -13,6 +13,7 @@
 - *Beta level **Microsoft Learn Student Ambassador***
 - *Current **Web Dev Team Lead** of ACM UET Chapter*
 - *Sr. Year CS Undergrad*
+- *Looking for remote Frontend Engineer job opportunities*
 
 ![separator](assets/separate.jpg)
 
