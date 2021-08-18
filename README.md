@@ -4,6 +4,7 @@
 
 - *JavaScript Developer who mostly work with the frontend using **Next.js & React.js***
 - *Open-sourcerer with more than [**20 tools and apps**](https://github.com/msaaddev/open-source) authored*
+- *Featured in [**Node Weekly**](https://nodeweekly.com/issues/397) and [**JavaScript Weekly**](https://javascriptweekly.com/issues/547) (subscribed by half a million developers) for my open-source work*
 - *Former fellow at **Major League Hacking***
 - *Former **Jr. Developer Advocate** at [Worwox](https://github.com/worwox)*
 - *Technical Writer at [**Dev.to**](https://dev.to/msaaddev) and [**TheDevCouple**](https://thedevcouple.com/author/muhammadsaad/)*
