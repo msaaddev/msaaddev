@@ -14,7 +14,7 @@
 - *Beta level **Microsoft Learn Student Ambassador***
 - *Current **Web Dev Team Lead** of ACM UET Chapter*
 - *Sr. Year CS Undergrad*
-- *Looking for remote Frontend Engineer job opportunities*
+- *Speaking at **Next.js Conf** this year — [Grab Your ticket](https://nextjs.org/conf/tickets/oct21/msaaddev?s=2)*
 
 ![separator](assets/separate.jpg)
 
