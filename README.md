@@ -1,4 +1,4 @@
-![cover](assets/cover.jpg)
+![cover](assets/cover-2.jpg)
 
 ### ⚡️ Here is a bit about me
 
@@ -14,7 +14,7 @@
 - *Beta level **Microsoft Learn Student Ambassador***
 - *Current **Web Dev Team Lead** of ACM UET Chapter*
 - *Sr. Year CS Undergrad*
-- *Speaking at **Next.js Conf** this year — [Grab Your ticket](https://nextjs.org/conf/tickets/oct21/msaaddev?s=2)*
+- *Speaking at **[Next.js Conf](https://nextjs.org/conf/speakers/msaaddev)** this year — [Grab Your ticket](https://nextjs.org/conf/tickets/oct21/msaaddev?s=2)*
 
 ![separator](assets/separate.jpg)
 
