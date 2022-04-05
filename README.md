@@ -1,4 +1,4 @@
-![cover](assets/cover-2.jpg)
+![cover](assets/cover-2.png)
 
 ### ⚡️ Here is a bit about me
 
