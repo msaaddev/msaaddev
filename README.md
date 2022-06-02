@@ -14,7 +14,7 @@
 - *Founder and former Lead of [**Google DSC UET Chapter**](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) (Part of 1st cohort)*
 - *Beta level **Microsoft Learn Student Ambassador***
 - *Current **Web Dev Team Lead** of ACM UET Chapter*
-- *Sr. Year CS Undergrad*
+- *Bachelors in Computer Sciences*
 
 ![separator](assets/separate.jpg)
 
