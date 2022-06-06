@@ -12,8 +12,9 @@
 - *Speaker with various **talks** delivered in many notable communities and universities*
 - *Former [**instructor**](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B) at ASME UET Chapter where I taught **frontend development** to Mechanical Engineers*
 - *Founder and former Lead of [**Google DSC UET Chapter**](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) (Part of 1st cohort)*
-- *Beta level **Microsoft Learn Student Ambassador***
-- *Current **Web Dev Team Lead** of ACM UET Chapter*
+- *Former Beta level **Microsoft Learn Student Ambassador***
+- *Former **Web Dev Team Lead** of ACM UET Chapter*
+- *Proficient technologies and tools: **React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode***
 - *Bachelors in Computer Sciences*
 
 ![separator](assets/separate.jpg)
