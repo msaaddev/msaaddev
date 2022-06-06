@@ -2,7 +2,9 @@
 
 ### ⚡️ Here is a bit about me
 
-- *JavaScript Developer who mostly works with the frontend using **Next.js & React.js***
+- *JavaScript Developer who mostly works with different **frontend** technologies.*
+- *Proficient technologies and tools: **React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode***
+- *Has a nag developing **automation tools***
 - *Open-sourcerer with more than [**20 tools and apps**](https://github.com/msaaddev/open-source) authored*
 - *[**Next.js Conf Speaker**](https://nextjs.org/conf/speakers/msaaddev) – [Watch my talk](https://www.youtube.com/watch?v=6EOZf-FOUDI&ab_channel=Vercel)*
 - *Featured in [**Node Weekly**](https://nodeweekly.com/issues/397) and [**JavaScript Weekly**](https://javascriptweekly.com/issues/547) (subscribed by half a million developers) for my open-source work*
@@ -14,7 +16,6 @@
 - *Founder and former Lead of [**Google DSC UET Chapter**](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) (Part of 1st cohort)*
 - *Former Beta level **Microsoft Learn Student Ambassador***
 - *Former **Web Dev Team Lead** of ACM UET Chapter*
-- *Proficient technologies and tools: **React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode***
 - *Bachelors in Computer Sciences*
 
 ![separator](assets/separate.jpg)
