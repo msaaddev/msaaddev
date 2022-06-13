@@ -2,7 +2,7 @@
 
 ### ⚡️ Here is a bit about me
 
-- *JavaScript Developer who mostly works with different **frontend** technologies.*
+- *JavaScript and TypeScript Developer who mostly works with different **frontend** technologies.*
 - *Proficient technologies and tools: **React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode***
 - *Has a nag for developing **automation tools***
 - *Open-sourcerer with more than [**20 tools and apps**](https://github.com/msaaddev/open-source) authored*
