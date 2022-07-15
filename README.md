@@ -2,13 +2,13 @@
 
 ### ⚡️ Here is a bit about me
 
-- *JavaScript and TypeScript Developer who mostly works with different **frontend** technologies.*
+- *JavaScript and TypeScript Developer who mostly works with different **frontend** technologies*
 - *Proficient technologies and tools: **React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode***
 - *Has a nag for developing **automation tools***
 - *Open-sourcerer with more than [**20 tools and apps**](https://github.com/msaaddev/open-source) authored*
 - *[**Next.js Conf Speaker**](https://nextjs.org/conf/speakers/msaaddev) – [Watch my talk](https://www.youtube.com/watch?v=6EOZf-FOUDI&ab_channel=Vercel)*
 - *Featured in [**Node Weekly**](https://nodeweekly.com/issues/397) and [**JavaScript Weekly**](https://javascriptweekly.com/issues/547) (subscribed by half a million developers) for my open-source work*
-- *Curated [**200+**](https://rapidapi.com/developers/saad) technical guides, how-to pieces, and learn articles around Web and APIs.*
+- *Curated [**200+**](https://rapidapi.com/developers/saad) technical guides, how-to pieces, and learn articles around Web and APIs*
 - *Former fellow at **Major League Hacking***
 - *Former **Jr. Developer Advocate** at [Worwox](https://github.com/worwox)*
 - *Technical Writer at [**Dev.to**](https://dev.to/msaaddev) and [**TheDevCouple**](https://thedevcouple.com/author/muhammadsaad/)*
