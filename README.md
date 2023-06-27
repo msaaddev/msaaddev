@@ -2,8 +2,10 @@
 
 ### ⚡️ Here is a bit about me
 
-- *JavaScript and TypeScript Developer who mostly works with different **frontend** technologies*
-- *Proficient technologies and tools: **React.js, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VSCode***
+- *JavaScript and TypeScript developer who mostly works with different **frontend** and **backend** technologies*
+- *Proficient technologies and tools: **React, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VS Code***
+- *Currently working as a **Software Engineer** at [**Kyte**](https://kyte.com/)*
+- *Previously worked at [**RapidAPI**](https://rapidapi.com/) as a **Developer Advocate***
 - *Has a knack for developing **automation tools***
 - *Open-sourcerer with more than [**20 tools and apps**](https://github.com/msaaddev/open-source) authored*
 - [***Next.js Conf Speaker***](https://nextjs.org/conf/oct21/speakers/msaaddev) – *[Watch my talk](https://www.youtube.com/watch?v=6EOZf-FOUDI&ab_channel=Vercel)*
