@@ -4,7 +4,7 @@
 
 - *JavaScript and TypeScript developer who mostly works with different **frontend** and **backend** technologies*
 - *Proficient technologies and tools: **React, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VS Code***
-- *Currently working as a **Software Engineer** at [**Kyte**](https://kyte.com/)*
+- *Currently working as a **Software Engineer II** at [**Kyte**](https://kyte.com/)*
 - *Previously worked at [**RapidAPI**](https://rapidapi.com/) as a **Developer Advocate***
 - *Has a knack for developing **automation tools***
 - *Open-sourcerer with more than [**20 tools and apps**](https://github.com/msaaddev/open-source) authored*
