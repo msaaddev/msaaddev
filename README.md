@@ -3,7 +3,11 @@
 ### ⚡️ Here is a bit about me
 
 - *JavaScript and TypeScript developer who mostly works with different **frontend** and **backend** technologies*
-- *Proficient technologies and tools: **React, Next.js, Node.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, VS Code***
+  - *Languages: **HTML, C++, JavaScript, TypeScript, Python, Shell script***
+  - *Frameworks & libraries: **React, Next.js, Express, Node.js, Flask, React Native, React Query, Storybook, Tamagui, Material UI***
+  - *Styling: **CSS, Tailwind CSS, Styled Components***
+  - *Database: **MongoDB, Cloud Firestore***
+  - *Tools: **Git, VS Code, Figma, Postman, Segment, Sentry, Datadog, Strapi CMS, Jira, Opsgenie*** 
 - *Currently working as a **Software Engineer II** at [**Kyte**](https://kyte.com/) (promoted within six months of joining the company)*
 - *Previously worked at [**RapidAPI**](https://rapidapi.com/) as a **Developer Advocate***
 - *Has a knack for developing **automation tools***
