@@ -1,7 +1,7 @@
 ### ⚡️ Here is a bit about me
 
 - *JavaScript, TypeScript, and Python developer who mostly works with different **frontend** and **backend** technologies*
-- *Proficient technologies and tools: **React, Next.js, Express, Node.js, Flask, RESTful APIs, Firebase (Firestore), MongoDB, Git, VS Code, and more***
+- *Proficient technologies: **React, Next.js, Express, Node.js, Flask, RESTful APIs, Firebase (Firestore), MongoDB, and more***
 - *Currently working as a **Software Engineer II** at [**Kyte**](https://kyte.com/) (promoted within six months of joining the company)***
 - *Previously worked at [**RapidAPI**](https://rapidapi.com/) as a **Developer Advocate***
 - *Has a knack for developing **automation tools***
