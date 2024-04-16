@@ -1,9 +1,9 @@
 ### ⚡️ Here is a bit about me
 
 - *JavaScript, TypeScript, and Python developer who mostly works with different **frontend** and **backend** technologies*
-- *Proficient technologies: **React, Next.js, Express, Node.js, Flask, RESTful APIs, Firebase (Firestore), MongoDB, and more***
-- *Currently working as a **Software Engineer II** at [**Kyte**](https://kyte.com/) (promoted within six months of joining the company)*
-- *Previously worked at [**RapidAPI**](https://rapidapi.com/) as a **Developer Advocate***
+- *Proficient technologies: **React, Next.js, Express, Node.js, Flask, RESTful APIs, Firebase (Firestore), Supabase, and more***
+- *Building AI LLM DevTools at [**Langbase ⌘**](https://langbase.com/) as the **Founding Engineer***
+- *Previously worked as a **Software Engineer II** at [**Kyte**](https://kyte.com/) & [**RapidAPI**](https://rapidapi.com/)*
 - *Has a knack for developing **automation tools***
 - *Open-sourcerer with more than [**20 tools and apps**](https://github.com/msaaddev/open-source) authored*
 - [***Next.js Conf Speaker***](https://nextjs.org/conf/oct21/speakers/msaaddev) – *[Watch my talk](https://www.youtube.com/watch?v=6EOZf-FOUDI&ab_channel=Vercel)*
