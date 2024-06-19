@@ -1,7 +1,7 @@
 ### ⚡️ Here is a bit about me
 
 - *JavaScript, TypeScript, and Python developer who write **full-stack** code and design **scalable** database architecture*
-- *Proficient technologies: **React, Next.js, Express, Node.js, Flask, RESTful APIs, Firebase (Firestore), Supabase, and more***
+- *Proficient technologies: **React, Next.js, Express, Node.js, Flask, Hono, Firebase (Firestore), Supabase, and more***
 - *Building AI LLM DevTools at [**Langbase ⌘**](https://langbase.com/) as the **Founding Engineer***
 - *Previously at [**Kyte**](https://kyte.com/) & [**RapidAPI**](https://rapidapi.com/) as **SWE II***
 - *Has a knack for developing **automation tools***
