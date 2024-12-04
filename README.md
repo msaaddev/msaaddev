@@ -4,7 +4,7 @@
 - *Proficient technologies: **React, Next.js, Express, Node.js, Flask, Hono, Firebase (Firestore), Supabase, and more***
 - ***Founding Engineer** at [**⌘ Langbase**](https://langbase.com/) – Building AI DevTooling*
 - *One of the original authors of first **Web AI Framework**, [BaseAI.dev](https://github.com/LangbaseInc/BaseAI) ([★ on GitHub](https://github.com/LangbaseInc/BaseAI))*
-- *Previously at [**Kyte**](https://kyte.com/) & [**RapidAPI**](https://rapidapi.com/) as **SWE II***
+- *Previously at [**Kyte**](https://kyte.com/) & [**RapidAPI**](https://rapidapi.com/) (acquired by Nokia) as **SWE II***
 - *Has a knack for developing **automation tools***
 - *Open-sourcerer with more than [**20 tools and apps**](https://github.com/msaaddev/open-source) authored*
 - [***Next.js Conf Speaker***](https://nextjs.org/conf/oct21/speakers/msaaddev) – *[Watch my talk](https://www.youtube.com/watch?v=6EOZf-FOUDI&ab_channel=Vercel)*
