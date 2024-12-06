@@ -15,7 +15,7 @@
 - *Technical Writer at [**Dev.to**](https://dev.to/msaaddev) and [**TheDevCouple**](https://thedevcouple.com/author/muhammadsaad/)*
 - *Speaker with various **talks** delivered in many notable communities and universities*
 - *Former [**instructor**](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B) at ASME UET Chapter where I taught **frontend development** to Mechanical Engineers*
-- *Founder and former Lead of [**Google DSC UET Chapter**](https://dsc.community.dev/university-of-engineering-and-technology-lahore/) (Part of 1st cohort)*
+- *Founder and former Lead of [**Google DSC UET Chapter**](https://gdg.community.dev/gdg-on-campus-university-of-engineering-and-technology-lahore-lahore-pakistan/) (Part of 1st cohort)*
 - *Former Beta level **Microsoft Learn Student Ambassador***
 - *Former **Web Dev Team Lead** of ACM UET Chapter*
 - *Bachelors in Computer Sciences*
