@@ -11,7 +11,7 @@
 - *Featured in [**Node Weekly**](https://nodeweekly.com/issues/397) and [**JavaScript Weekly**](https://javascriptweekly.com/issues/547) (subscribed by half a million developers) for my open-source work*
 - *Curated [**200+**](https://rapidapi.com/developers/saad) technical guides, how-to pieces, and learn articles around Web and APIs*
 - *Former fellow at **Major League Hacking***
-- *Former **Jr. Developer Advocate** at [Worwox](https://github.com/worwox)*
+- *Former **Developer Advocate** at [Worwox](https://github.com/worwox)*
 - *Technical Writer at [**Dev.to**](https://dev.to/msaaddev) and [**TheDevCouple**](https://thedevcouple.com/author/muhammadsaad/)*
 - *Speaker with various **talks** delivered in many notable communities and universities*
 - *Former [**instructor**](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B) at ASME UET Chapter where I taught **frontend development** to Mechanical Engineers*
