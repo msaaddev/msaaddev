@@ -2,7 +2,7 @@
 
 - *JavaScript, TypeScript, and Python developer who writes **full-stack** code and design **scalable** systems*
 - *Proficient technologies: **React, Next.js, Express, Node.js, Flask, Hono, Cloudflare, Supabase, and more***
-- ***Founding Engineer** at [**⌘ Langbase**](https://langbase.com/) – Building AI DevTooling*
+- ***Software Engineer** at [**⌘ Langbase**](https://langbase.com/) – Building AI DevTooling*
 - *One of the original authors of first **Web AI Framework**, [BaseAI.dev](https://github.com/LangbaseInc/BaseAI) ([★ on GitHub](https://github.com/LangbaseInc/BaseAI))*
 - *Previously **SWE II** at [**Kyte**](https://kyte.com/) & [**RapidAPI**](https://rapidapi.com/) (acquired by Nokia)*
 - *Has a knack for developing **automation tools***
